@@ -1,0 +1,18 @@
+:root { color-scheme: dark; }
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: #0d1020; color: #e6e1f0;
+  font: 17px/1.65 "Cormorant Garamond", Georgia, "Times New Roman", serif;
+}
+main { max-width: 640px; margin: 0 auto; padding: 56px 24px 80px; }
+header { text-align: center; margin-bottom: 40px; }
+header img { width: 96px; height: 96px; border-radius: 22px; }
+h1 { font-weight: 300; font-size: 44px; letter-spacing: .18em; margin: 18px 0 4px; }
+h2 { font-weight: 400; font-size: 13px; letter-spacing: .32em; text-transform: uppercase; color: #fdc0cc; margin: 44px 0 10px; }
+h3 { font-weight: 500; font-size: 18px; margin: 26px 0 4px; }
+p, li { color: #d7d1e6; }
+.sub { font-style: italic; color: #b9b2cc; margin: 0; }
+.lang { text-align: center; font-size: 14px; letter-spacing: .2em; margin-bottom: 8px; }
+a { color: #fdc0cc; }
+hr { border: 0; border-top: 1px solid rgba(230, 225, 240, .14); margin: 56px 0; }
+footer { text-align: center; font-size: 14px; color: #8f88a6; margin-top: 56px; }
